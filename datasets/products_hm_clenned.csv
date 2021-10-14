@@ -1,0 +1,188 @@
+,product_id,fit,sustainable,product_name,product_price,color_name,style_id,color_id,scrapy_datetime,size_number,size_model,cotton,polyester,elastane,elasterell
+0,938875007,slim_fit,,slim_tapered_jeans,39.99,black,938875,7,2021-10-09 11:57:22,188,31/32,0.99,0.0,0.01,0.0
+1,938875001,slim_fit,,slim_tapered_jeans,39.99,light_denim_blue,938875,1,2021-10-09 11:57:22,187,31/30,0.99,0.0,0.01,0.0
+2,938875002,slim_fit,,slim_tapered_jeans,39.99,white,938875,2,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+3,938875004,slim_fit,,slim_tapered_jeans,18.99,dark_gray,938875,4,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+4,938875008,slim_fit,,slim_tapered_jeans,39.99,denim_blue,938875,8,2021-10-09 11:57:22,187,31/32,0.99,0.0,0.01,0.0
+5,1018704002,relaxed_fit,Recycled cotton 20%,relaxed_pull-on_jeans,24.99,denim_blue,1018704,2,2021-10-09 11:57:22,,,0.65,0.0,0.0,0.0
+6,1018704001,relaxed_fit,Recycled cotton 20%,relaxed_pull-on_jeans,24.99,light_denim_blue,1018704,1,2021-10-09 11:57:22,188,,0.65,0.0,0.0,0.0
+7,1018704003,relaxed_fit,Recycled cotton 20%,relaxed_pull-on_jeans,24.99,black,1018704,3,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+8,927964001,regular_fit,,regular_tapered_crop_jeans,19.99,denim_blue,927964,1,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+9,927964002,regular_fit,,regular_tapered_crop_jeans,19.99,light_denim_blue,927964,2,2021-10-09 11:57:22,,,0.65,0.0,0.0,0.0
+10,927964003,regular_fit,,regular_tapered_crop_jeans,19.99,dark_gray,927964,3,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+11,927964004,regular_fit,,regular_tapered_crop_jeans,19.99,steel_blue,927964,4,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+12,927964005,regular_fit,,regular_tapered_crop_jeans,10.99,white,927964,5,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+13,690449043,skinny_fit,,skinny_jeans,39.99,light_denim_blue_trashed,690449,43,2021-10-09 11:57:22,187,32/32,0.65,0.0,0.0,0.0
+14,690449001,skinny_fit,,skinny_jeans,16.99,light_denim_blue_trashed,690449,1,2021-10-09 11:57:22,,,0.99,0.0,0.01,0.0
+15,690449002,skinny_fit,,skinny_jeans,14.99,denim_blue,690449,2,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+16,690449006,skinny_fit,,skinny_jeans,7.99,black_washed,690449,6,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+17,690449007,skinny_fit,,skinny_jeans,14.99,light_denim_blue,690449,7,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+18,690449009,skinny_fit,,skinny_jeans,19.99,black_washed_out,690449,9,2021-10-09 11:57:22,,,0.99,0.0,0.01,0.0
+19,690449011,skinny_fit,,skinny_jeans,19.99,white,690449,11,2021-10-09 11:57:22,,,0.99,0.0,0.01,0.0
+20,690449013,skinny_fit,,skinny_jeans,27.99,black_washed,690449,13,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+21,690449021,skinny_fit,,skinny_jeans,25.99,dark_denim_blue_trashed,690449,21,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+22,690449022,skinny_fit,,skinny_jeans,39.99,black_trashed,690449,22,2021-10-09 11:57:22,184,31/32,0.98,0.0,0.02,0.0
+23,690449024,skinny_fit,,skinny_jeans,20.99,dark_blue_trashed,690449,24,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+24,690449028,skinny_fit,,skinny_jeans,19.99,dark_blue_washed_out,690449,28,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+25,690449035,skinny_fit,,skinny_jeans,21.99,denim_blue_trashed,690449,35,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+26,690449036,skinny_fit,,skinny_jeans,39.99,black,690449,36,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+27,690449040,skinny_fit,,skinny_jeans,29.99,denim_gray,690449,40,2021-10-09 11:57:22,,,0.65,0.0,0.0,0.0
+28,690449046,skinny_fit,,skinny_jeans,39.99,light_denim_gray_trashed,690449,46,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+29,690449051,skinny_fit,,skinny_jeans,39.99,gray,690449,51,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+30,985197006,slim_fit,,slim_jeans,19.99,light_denim_blue,985197,6,2021-10-09 11:57:22,187,31/32,0.99,0.0,0.01,0.0
+31,985197001,slim_fit,,slim_jeans,19.99,black,985197,1,2021-10-09 11:57:22,189,32/32,0.98,0.0,0.02,0.0
+32,985197002,slim_fit,,slim_jeans,19.99,midnight_blue,985197,2,2021-10-09 11:57:22,182,31/32,0.65,0.0,0.0,0.0
+33,985197003,slim_fit,,slim_jeans,19.99,denim_blue,985197,3,2021-10-09 11:57:22,182,31/32,0.99,0.0,0.01,0.0
+34,985197004,slim_fit,,slim_jeans,19.99,dark_denim_blue,985197,4,2021-10-09 11:57:22,,,0.99,0.0,0.01,0.0
+35,985197005,slim_fit,,slim_jeans,19.99,dark_denim_blue,985197,5,2021-10-09 11:57:22,,,0.65,0.0,0.0,0.0
+36,985197007,slim_fit,,slim_jeans,19.99,dark_gray,985197,7,2021-10-09 11:57:22,187,31/32,0.99,0.0,0.01,0.0
+37,427159006,skinny_fit,,trashed_skinny_jeans,39.99,light_denim_blue,427159,6,2021-10-09 11:57:22,184,31/32,0.93,0.06,0.01,0.0
+38,427159001,skinny_fit,,trashed_skinny_jeans,39.99,black_denim,427159,1,2021-10-09 11:57:22,,,0.91,0.07,0.02,0.0
+39,427159002,skinny_fit,,trashed_skinny_jeans,39.99,blue_washed_out,427159,2,2021-10-09 11:57:22,,,0.93,0.06,0.01,0.0
+40,427159003,skinny_fit,,trashed_skinny_jeans,39.99,denim_blue,427159,3,2021-10-09 11:57:22,,,0.93,0.06,0.01,0.0
+41,427159004,skinny_fit,,trashed_skinny_jeans,39.99,light_denim_blue,427159,4,2021-10-09 11:57:22,,,0.99,0.0,0.01,0.0
+42,427159005,skinny_fit,,trashed_skinny_jeans,39.99,dark_denim_blue,427159,5,2021-10-09 11:57:22,,,0.72,0.2,0.07,0.0
+43,427159007,skinny_fit,,trashed_skinny_jeans,18.99,black_washed_out,427159,7,2021-10-09 11:57:22,,,0.91,0.07,0.02,0.0
+44,427159008,skinny_fit,,trashed_skinny_jeans,18.99,denim_blue,427159,8,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+45,427159010,skinny_fit,,trashed_skinny_jeans,39.99,white_denim,427159,10,2021-10-09 11:57:22,,,0.99,0.0,0.01,0.0
+46,427159011,skinny_fit,,trashed_skinny_jeans,24.99,light_blue_washed_out,427159,11,2021-10-09 11:57:22,,,0.93,0.06,0.01,0.0
+47,427159017,skinny_fit,,trashed_skinny_jeans,24.99,super_light_denim_blue,427159,17,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+48,427159022,skinny_fit,,trashed_skinny_jeans,9.99,black_trashed,427159,22,2021-10-09 11:57:22,,,0.93,0.06,0.01,0.0
+49,427159023,skinny_fit,,trashed_skinny_jeans,21.99,light_denim_blue,427159,23,2021-10-09 11:57:22,,,0.93,0.06,0.01,0.0
+50,427159025,skinny_fit,,trashed_skinny_jeans,14.99,denim_blue_bleached,427159,25,2021-10-09 11:57:22,,,0.93,0.06,0.01,0.0
+51,427159027,skinny_fit,,trashed_skinny_jeans,19.99,black_bleached,427159,27,2021-10-09 11:57:22,,,0.93,0.06,0.01,0.0
+52,753512001,skinny_fit,,skinny_no_fade_black_jeans,29.99,black_no_fade_black,753512,1,2021-10-09 11:57:22,,,0.99,0.0,0.01,0.0
+53,1013317001,regular_fit,Recycled cotton 20%,hybrid_regular_tapered_joggers,39.99,light_denim_blue,1013317,1,2021-10-09 11:57:22,,,0.77,0.21,0.02,0.0
+54,1013317002,regular_fit,Recycled cotton 19%,hybrid_regular_tapered_joggers,39.99,denim_blue,1013317,2,2021-10-09 11:57:22,189,,0.78,0.21,0.01,0.0
+55,1013317004,regular_fit,Recycled cotton 20%,hybrid_regular_tapered_joggers,39.99,black,1013317,4,2021-10-09 11:57:22,,,0.78,0.21,0.01,0.0
+56,985159003,skinny_fit,,skinny_jeans,19.99,dark_gray,985159,3,2021-10-09 11:57:22,,,0.99,0.0,0.01,0.0
+57,985159001,skinny_fit,,skinny_jeans,19.99,black,985159,1,2021-10-09 11:57:22,187,31/32,1.0,0.0,0.0,0.0
+58,985159002,skinny_fit,,skinny_jeans,19.99,denim_blue,985159,2,2021-10-09 11:57:22,187,31/32,0.99,0.0,0.01,0.0
+59,985159004,skinny_fit,,skinny_jeans,19.99,light_denim_blue,985159,4,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+60,985159005,skinny_fit,,skinny_jeans,19.99,dark_blue,985159,5,2021-10-09 11:57:22,187,32/32,1.0,0.0,0.0,0.0
+61,985159006,skinny_fit,,skinny_jeans,19.99,dark_denim_blue,985159,6,2021-10-09 11:57:22,187,32/32,0.99,0.0,0.01,0.0
+62,751994031,slim_fit,,slim_jeans,29.99,light_blue,751994,31,2021-10-09 11:57:22,187,31/32,0.99,0.0,0.01,0.0
+63,751994001,slim_fit,,slim_jeans,11.99,dark_gray,751994,1,2021-10-09 11:57:22,,,0.99,0.0,0.01,0.0
+64,751994003,slim_fit,,slim_jeans,13.99,light_denim_blue,751994,3,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+65,751994004,slim_fit,,slim_jeans,16.99,dark_denim_blue,751994,4,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+66,751994005,slim_fit,,slim_jeans,20.99,dark_blue,751994,5,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+67,751994006,slim_fit,,slim_jeans,14.99,denim_blue,751994,6,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+68,751994007,slim_fit,,slim_jeans,22.99,black_washed_out,751994,7,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+69,751994009,slim_fit,,slim_jeans,29.99,dark_blue_denim,751994,9,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+70,751994010,slim_fit,,slim_jeans,29.99,dark_gray,751994,10,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+71,751994014,slim_fit,,slim_jeans,17.99,light_gray,751994,14,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+72,751994016,slim_fit,,slim_jeans,15.99,dark_blue,751994,16,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+73,751994017,slim_fit,,slim_jeans,16.99,dark_denim_blue,751994,17,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+74,751994018,slim_fit,,slim_jeans,29.99,denim_blue,751994,18,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+75,751994024,slim_fit,,slim_jeans,29.99,black_denim,751994,24,2021-10-09 11:57:22,187,31/32,0.98,0.0,0.02,0.0
+76,751994034,slim_fit,,slim_jeans,29.99,dark_blue,751994,34,2021-10-09 11:57:22,189,32/32,0.99,0.0,0.01,0.0
+77,1004199003,skinny_fit,,skinny_cropped_jeans,29.99,denim_blue,1004199,3,2021-10-09 11:57:22,,,0.99,0.0,0.01,0.0
+78,1004199001,skinny_fit,,skinny_cropped_jeans,29.99,light_denim_blue,1004199,1,2021-10-09 11:57:22,,,0.99,0.0,0.01,0.0
+79,1004199002,skinny_fit,,skinny_cropped_jeans,29.99,black,1004199,2,2021-10-09 11:57:22,187,,0.99,0.0,0.01,0.0
+80,730863005,skinny_fit,,skinny_jeans,29.99,light_denim_blue,730863,5,2021-10-09 11:57:22,,,0.99,0.0,0.01,0.0
+81,730863002,skinny_fit,,skinny_jeans,14.99,denim_blue_washed_out,730863,2,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+82,730863003,skinny_fit,,skinny_jeans,20.99,black_washed_out,730863,3,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+83,730863004,skinny_fit,,skinny_jeans,14.99,dark_denim_blue,730863,4,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+84,730863007,skinny_fit,,skinny_jeans,16.99,denim_blue,730863,7,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+85,730863008,skinny_fit,,skinny_jeans,17.99,light_gray,730863,8,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+86,730863009,skinny_fit,,skinny_jeans,10.99,dark_blue,730863,9,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+87,730863010,skinny_fit,,skinny_jeans,9.99,denim_blue,730863,10,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+88,730863011,skinny_fit,,skinny_jeans,14.99,white,730863,11,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+89,730863012,skinny_fit,,skinny_jeans,18.99,denim_blue,730863,12,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+90,730863014,skinny_fit,,skinny_jeans,19.99,gray_denim,730863,14,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+91,730863017,skinny_fit,,skinny_jeans,22.99,light_denim_blue,730863,17,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+92,730863018,skinny_fit,,skinny_jeans,13.99,black_washed-out,730863,18,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+93,730863027,skinny_fit,,skinny_jeans,21.99,black_washed_out,730863,27,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+94,730863033,skinny_fit,,skinny_jeans,29.99,black_no_fade_black,730863,33,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+95,730863038,skinny_fit,,skinny_jeans,17.99,denim_blue,730863,38,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+96,730863039,skinny_fit,,skinny_jeans,15.99,blue,730863,39,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+97,730863040,skinny_fit,,skinny_jeans,29.99,denim_blue,730863,40,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+98,730863043,skinny_fit,,skinny_jeans,18.99,graphite_gray,730863,43,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+99,974202001,regular_fit,,regular_denim_joggers,29.99,light_denim_blue,974202,1,2021-10-09 11:57:22,187,,1.0,0.0,0.0,0.0
+100,974202002,regular_fit,,regular_denim_joggers,29.99,denim_blue,974202,2,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+101,974202003,regular_fit,,regular_denim_joggers,29.99,black,974202,3,2021-10-09 11:57:22,187,,1.0,0.0,0.0,0.0
+102,974597002,slim_fit,,slim_tapered_jeans,29.99,denim_blue,974597,2,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+103,974597001,slim_fit,,slim_tapered_jeans,29.99,denim_blue,974597,1,2021-10-09 11:57:22,186,31/32,1.0,0.0,0.0,0.0
+104,974597003,slim_fit,,slim_tapered_jeans,29.99,black,974597,3,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+105,974597005,slim_fit,,slim_tapered_jeans,29.99,light_denim_blue,974597,5,2021-10-09 11:57:22,187,32/32,0.99,0.0,0.01,0.0
+106,875105015,relaxed_fit,Recycled cotton 20%,relaxed_jeans,29.99,light_denim_blue,875105,15,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+107,875105001,relaxed_fit,Recycled cotton 20%,relaxed_jeans,29.99,denim_blue,875105,1,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+108,875105002,relaxed_fit,Recycled cotton 20%,relaxed_jeans,29.99,black,875105,2,2021-10-09 11:57:22,187,32/32,1.0,0.0,0.0,0.0
+109,875105003,relaxed_fit,Recycled cotton 20%,relaxed_jeans,29.99,light_denim_blue,875105,3,2021-10-09 11:57:22,187,31/32,1.0,0.0,0.0,0.0
+110,875105011,relaxed_fit,Recycled cotton 20%,relaxed_jeans,29.99,light_denim_blue,875105,11,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+111,1004476001,slim_fit,,freefit®_slim_jeans,49.99,light_denim_blue,1004476,1,2021-10-09 11:57:22,182,31/32,0.9,0.0,0.02,0.08
+112,1004476002,slim_fit,,freefit®_slim_jeans,49.99,light_denim_blue,1004476,2,2021-10-09 11:57:22,,,0.9,0.0,0.02,0.08
+113,1004476004,slim_fit,,freefit®_slim_jeans,49.99,dark_denim_blue,1004476,4,2021-10-09 11:57:22,182,31/32,0.9,0.0,0.02,0.08
+114,1004476005,slim_fit,,freefit®_slim_jeans,49.99,black_no_fade_black,1004476,5,2021-10-09 11:57:22,182,31/32,0.9,0.0,0.02,0.08
+115,865734005,relaxed_fit,,relaxed_tapered_pull-on_jeans,29.99,light_denim_blue,865734,5,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+116,865734001,relaxed_fit,,relaxed_tapered_pull-on_jeans,29.99,light_denim_blue,865734,1,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+117,865734002,relaxed_fit,,relaxed_tapered_pull-on_jeans,14.99,denim_blue,865734,2,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+118,865734006,relaxed_fit,,relaxed_tapered_pull-on_jeans,29.99,gray,865734,6,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+119,865734007,relaxed_fit,,relaxed_tapered_pull-on_jeans,22.99,pale_denim_blue,865734,7,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+120,1008549004,regular_fit,,regular_jeans,19.99,dark_blue,1008549,4,2021-10-09 11:57:22,189,32/32,0.63,0.0,0.0,0.0
+121,1008549001,regular_fit,Recycled cotton 20%,regular_jeans,19.99,light_denim_blue,1008549,1,2021-10-09 11:57:22,189,32/32,0.65,0.0,0.0,0.0
+122,1008549002,regular_fit,Recycled cotton 20%,regular_jeans,19.99,denim_blue,1008549,2,2021-10-09 11:57:22,183,32/32,0.99,0.0,0.01,0.0
+123,1008549006,regular_fit,Recycled cotton 20%,regular_jeans,19.99,black,1008549,6,2021-10-09 11:57:22,,,0.99,0.0,0.01,0.0
+124,986779004,relaxed_fit,,relaxed_tapered_pull-on_jeans,29.99,dark_denim_blue,986779,4,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+125,986779002,relaxed_fit,,relaxed_tapered_pull-on_jeans,29.99,denim_blue,986779,2,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+126,986779003,relaxed_fit,,relaxed_tapered_pull-on_jeans,29.99,black,986779,3,2021-10-09 11:57:22,,,0.65,0.0,0.0,0.0
+127,986779005,relaxed_fit,,relaxed_tapered_pull-on_jeans,29.99,denim_blue,986779,5,2021-10-09 11:57:22,,,0.65,0.0,0.0,0.0
+128,931747003,regular_fit,,regular_tapered_jeans,29.99,denim_blue,931747,3,2021-10-09 11:57:22,,,0.99,0.0,0.01,0.0
+129,931747002,regular_fit,,regular_tapered_jeans,29.99,light_denim_blue,931747,2,2021-10-09 11:57:22,,,0.99,0.0,0.01,0.0
+130,952016003,regular_fit,,hybrid_regular_tapered_joggers,39.99,light_denim_blue,952016,3,2021-10-09 11:57:22,,,0.77,0.21,0.02,0.0
+131,952016001,regular_fit,,hybrid_regular_tapered_joggers,29.99,denim_blue,952016,1,2021-10-09 11:57:22,,,0.77,0.21,0.02,0.0
+132,952016002,regular_fit,,hybrid_regular_tapered_joggers,39.99,black,952016,2,2021-10-09 11:57:22,,,0.79,0.2,0.01,0.0
+133,720504013,skinny_fit,,skinny_jeans,24.99,light_blue,720504,13,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+134,720504001,skinny_fit,,skinny_jeans,14.99,black,720504,1,2021-10-09 11:57:22,,,0.8,0.19,0.01,0.0
+135,720504002,skinny_fit,,skinny_jeans,12.99,dark_denim_blue,720504,2,2021-10-09 11:57:22,,,0.65,0.0,0.0,0.0
+136,720504003,skinny_fit,,skinny_jeans,10.99,denim_blue,720504,3,2021-10-09 11:57:22,,,0.9,0.08,0.02,0.0
+137,720504004,skinny_fit,,skinny_jeans,12.99,light_denim_blue,720504,4,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+138,720504005,skinny_fit,,skinny_jeans,12.99,light_gray,720504,5,2021-10-09 11:57:22,,,0.75,0.24,0.01,0.0
+139,720504007,skinny_fit,,skinny_jeans,10.99,midnight_blue,720504,7,2021-10-09 11:57:22,,,0.87,0.11,0.02,0.0
+140,720504008,skinny_fit,,skinny_jeans,24.99,dark_gray,720504,8,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+141,720504010,skinny_fit,,skinny_jeans,24.99,denim_blue,720504,10,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+142,720504011,skinny_fit,,skinny_jeans,14.99,dark_blue,720504,11,2021-10-09 11:57:22,,,0.73,0.26,0.01,0.0
+143,814631004,slim_fit,,freefit®_slim_jeans,49.99,pale_denim_blue,814631,4,2021-10-09 11:57:22,,,0.9,0.0,0.02,0.08
+144,814631001,slim_fit,,freefit®_slim_jeans,49.99,dark_denim_blue,814631,1,2021-10-09 11:57:22,,,0.9,0.0,0.02,0.08
+145,814631002,slim_fit,,freefit®_slim_jeans,49.99,light_denim_blue,814631,2,2021-10-09 11:57:22,,,0.9,0.0,0.02,0.08
+146,814631003,slim_fit,,freefit®_slim_jeans,27.99,dark_gray,814631,3,2021-10-09 11:57:22,,,0.9,0.0,0.02,0.08
+147,814631005,slim_fit,,freefit®_slim_jeans,49.99,light_gray,814631,5,2021-10-09 11:57:22,,,0.9,0.0,0.02,0.08
+148,814631006,slim_fit,,freefit®_slim_jeans,49.99,black_no_fade_black,814631,6,2021-10-09 11:57:22,,,0.9,0.0,0.02,0.08
+149,814631007,slim_fit,,freefit®_slim_jeans,30.99,dark_blue,814631,7,2021-10-09 11:57:22,,,0.9,0.0,0.02,0.08
+150,814631012,slim_fit,,freefit®_slim_jeans,25.99,white,814631,12,2021-10-09 11:57:22,,,0.9,0.0,0.02,0.08
+151,814631014,slim_fit,,freefit®_slim_jeans,19.99,gray,814631,14,2021-10-09 11:57:22,,,0.9,0.0,0.02,0.08
+152,814631018,slim_fit,,freefit®_slim_jeans,49.99,dark_denim_blue,814631,18,2021-10-09 11:57:22,,,0.9,0.0,0.02,0.08
+153,868115005,skinny_fit,,skinny_cropped_jeans,29.99,light_denim_blue,868115,5,2021-10-09 11:57:22,,,0.87,0.12,0.01,0.0
+154,868115001,skinny_fit,,skinny_cropped_jeans,29.99,black,868115,1,2021-10-09 11:57:22,,,0.73,0.26,0.01,0.0
+155,868115002,skinny_fit,,skinny_cropped_jeans,29.99,light_denim_blue,868115,2,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+156,868115003,skinny_fit,,skinny_cropped_jeans,12.99,light_denim_blue,868115,3,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+157,868115004,skinny_fit,,skinny_cropped_jeans,29.99,denim_blue,868115,4,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+158,868115006,skinny_fit,,skinny_cropped_jeans,29.99,white,868115,6,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+159,868115007,skinny_fit,,skinny_cropped_jeans,29.99,light_blue,868115,7,2021-10-09 11:57:22,187,,0.89,0.1,0.01,0.0
+160,636207019,slim_fit,,slim_jeans,19.99,pale_denim_blue,636207,19,2021-10-09 11:57:22,,,0.89,0.1,0.01,0.0
+161,636207001,slim_fit,,slim_jeans,19.99,dark_denim_blue,636207,1,2021-10-09 11:57:22,,,0.89,0.1,0.01,0.0
+162,636207004,slim_fit,,slim_jeans,10.99,denim_blue,636207,4,2021-10-09 11:57:22,,,0.88,0.1,0.02,0.0
+163,636207005,slim_fit,,slim_jeans,11.99,gray,636207,5,2021-10-09 11:57:22,,,0.75,0.24,0.01,0.0
+164,636207006,slim_fit,,slim_jeans,19.99,black,636207,6,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+165,636207010,slim_fit,,slim_jeans,19.99,light_denim_blue,636207,10,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+166,636207011,slim_fit,,slim_jeans,19.99,midnight_blue,636207,11,2021-10-09 11:57:22,,,0.89,0.1,0.01,0.0
+167,636207014,slim_fit,,slim_jeans,19.99,dark_gray,636207,14,2021-10-09 11:57:22,,,0.99,0.0,0.01,0.0
+168,636207015,slim_fit,,slim_jeans,19.99,denim_blue,636207,15,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+169,636207017,slim_fit,,slim_jeans,19.99,white,636207,17,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+170,811993007,regular_fit,,regular_jeans,29.99,light_denim_blue,811993,7,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+171,811993001,regular_fit,,regular_jeans,12.99,black_washed_out,811993,1,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+172,811993002,regular_fit,,regular_jeans,29.99,denim_blue,811993,2,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+173,811993003,regular_fit,Recycled cotton 20%,regular_jeans,29.99,dark_denim_blue,811993,3,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+174,811993006,regular_fit,,regular_jeans,14.99,graphite_gray,811993,6,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+175,811993021,regular_fit,,regular_jeans,29.99,black,811993,21,2021-10-09 11:57:22,,,0.98,0.0,0.02,0.0
+176,811993022,regular_fit,,regular_jeans,16.99,cream,811993,22,2021-10-09 11:57:22,,,0.99,0.0,0.01,0.0
+177,811993024,regular_fit,,regular_jeans,29.99,denim_blue,811993,24,2021-10-09 11:57:22,,,1.0,0.0,0.0,0.0
+178,811993025,regular_fit,,regular_jeans,15.99,light_blue,811993,25,2021-10-09 11:57:22,,,0.99,0.0,0.01,0.0
+179,811993028,regular_fit,Recycled cotton 20%,regular_jeans,29.99,denim_blue,811993,28,2021-10-09 11:57:22,185,31/32,0.99,0.0,0.01,0.0
+180,811993031,regular_fit,Recycled cotton 20%,regular_jeans,29.99,dark_denim_blue,811993,31,2021-10-09 11:57:22,,,0.99,0.0,0.01,0.0
+181,811993034,regular_fit,,regular_jeans,29.99,pale_denim_blue,811993,34,2021-10-09 11:57:22,187,31/32,0.99,0.0,0.01,0.0
+182,811993036,regular_fit,Recycled cotton 20%,regular_jeans,29.99,blue,811993,36,2021-10-09 11:57:22,183,31/32,0.99,0.0,0.01,0.0
+183,811993037,regular_fit,Recycled cotton 20%,regular_jeans,29.99,dark_blue,811993,37,2021-10-09 11:57:22,182,31/32,0.99,0.0,0.01,0.0
+184,993887002,regular_fit,Recycled cotton 20%,hybrid_regular_denim_joggers,39.99,denim_blue,993887,2,2021-10-09 11:57:22,189,32/32,0.77,0.21,0.02,0.0
+185,993887001,regular_fit,Recycled cotton 20%,hybrid_regular_denim_joggers,39.99,denim_blue,993887,1,2021-10-09 11:57:22,,,0.77,0.21,0.02,0.0
+186,993887004,regular_fit,Recycled cotton 20%,hybrid_regular_denim_joggers,39.99,black,993887,4,2021-10-09 11:57:22,,,0.79,0.2,0.01,0.0
